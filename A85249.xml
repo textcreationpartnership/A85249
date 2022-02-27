@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fevv propositions shewing the lawfullnesse of defence against the injurious attempts of outragious violence. It is this eighth day of June, an. Dom. 1643. ordered by the Committee of the House of Commons, concerning printing, that this booke entituled, A few propositions, &amp;c, be printed. John White.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85249</idno>
+            <idno type="STC">Wing F836</idno>
+            <idno type="STC">Thomason E106_7</idno>
+            <idno type="STC">ESTC R18968</idno>
+            <idno type="EEBO-CITATION">99860518</idno>
+            <idno type="PROQUEST">99860518</idno>
+            <idno type="VID">112640</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112640)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E106[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fevv propositions shewing the lawfullnesse of defence against the injurious attempts of outragious violence. It is this eighth day of June, an. Dom. 1643. ordered by the Committee of the House of Commons, concerning printing, that this booke entituled, A few propositions, &amp;c, be printed. John White.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Gellibrand, at the Brazen Serpent in Pauls churchyad [sic],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A justification of Parliamentary resistance to royal authority.</note>
+                  <note>Annotation on Thomason copy: "June 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112640:1" rendition="simple:additions"/>
+            <p>A FEVV PROPOSITIONS SHEWING THE LAWFULLNESSE OF DEFENCE Againſt the injurious attempts of outragious violence.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>It is this eighth day of June, <hi>An. Dom. 1643.</hi> Ordered by the Com<g ref="char:EOLhyphen"/>mittee of the Houſe of Commons, concerning Printing, that this Booke entituled, <hi>A few Propoſitions, &amp;c,</hi> be Printed.</p>
+                  <closer>
+                     <signed>JOHN WHITE.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON Printed for SAMUEL GELLIBRAND, at the Brazen Serpent in Pauls churchyad, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112640:2"/>
+            <pb facs="tcp:112640:2"/>
+            <head>A few propoſitions, ſhewing the lawfulneſſe of defence againſt Injurious attempts of out<g ref="char:EOLhyphen"/>ragious violence.</head>
+            <p n="1">
+               <note place="margin" type="runSum">1. Lawfulnes of private defence a<g ref="char:EOLhyphen"/>gainſt pri<g ref="char:EOLhyphen"/>vate aſ<g ref="char:EOLhyphen"/>ſaults of Life.</note>I. <seg rend="decorInit">B</seg>Y the law of nature, it is lawfull for any one to defend themſelves, againſt any private perſon, that aſſaults them to take away their lives or puts them in danger.</p>
+            <p>Neither can it be, that the law of any Country can juſtly deny this: For all juſt lawes are with reſpect to common ſafety; which is none at all, if the lives of particulars may not be by themſelves defended from private violence.</p>
+            <p n="2">
+               <note place="margin" type="runSum">2. of Chaſti<g ref="char:EOLhyphen"/>ty.</note>II. By the ſame law of nature, it is lawfull to defend them<g ref="char:EOLhyphen"/>ſelves againſt any private man that would offer violence to their chaſtity.</p>
+            <p>
+               <note place="margin" type="runSum">Never law fully vio<g ref="char:EOLhyphen"/>lated</note> Neither can any law of any Country juſtly deny this; For chaſtity is an Inherent good of which there can be no pretence, why any ſhould be robbed, or deprived of it. And in one reſ<g ref="char:EOLhyphen"/>pect it is more Inviolable then life. and are many caſes, wherin it is lawfull to deprive others of their lives, &amp; for a man to yield up his own life patiently; but none, where<g ref="char:EOLhyphen"/>in it is lawfull to deprive them of their chaſtity, or to yeild that up: It being ever a ſinne againſt the Law and light of nature.</p>
+            <p n="3">
+               <note place="margin" type="runSum">3. of Goods.</note>III. By the law of nature, alſo, it is further lawfull for any to defend their goods from any private perſon that offers to take them violently away.</p>
+            <p>
+               <note place="margin" type="runSum">But this not in all caſes.</note> And no law of any Country, can juſtly deny this defence even of goods altogether. For otherwiſe they expoſe all the country to rapine and ſpoyle. Onely it muſt be remembred that in this caſe of of goods (as alſo in leſſer injuries to a mans
+<pb facs="tcp:112640:3"/>
+               <pb facs="tcp:112640:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:112640:4"/>perſon) Chriſtian meekneſſe, recommended and charged upon us by our Saviour, <hi>Matth.</hi> 5.39.40. requires that ſometimes we ſuffer to ſome degree, rather then defend our ſelves even by law Civill, and therefore much rather then by our owne hand. Namely when our defence might endanger more harme to be done by us, them we are like to ſuffer, (or to hazard our own ſuffering worſe) &amp; when our ſuffering may give hopes of over<g ref="char:EOLhyphen"/>comming evill with good or the like. But otherwiſe, God no where diſallowes abſolutely the defence of our very goods, and ſo of our perſons, from the outrages of any private violence.</p>
+            <p n="4">
+               <note place="margin" type="runSum">4. Even a<g ref="char:EOLhyphen"/>gainſt Of<g ref="char:EOLhyphen"/>ficers vio<g ref="char:EOLhyphen"/>lence alto<g ref="char:EOLhyphen"/>gether al<g ref="char:EOLhyphen"/>legall.</note>IV. Moreover, in any one of theſe caſes, one may defend themſelves againſt any Officer or inferiour Magiſtrate, that without all authority of law offers injurious aſſaults, of outragi<g ref="char:EOLhyphen"/>ous violence.</p>
+            <p>No Law of any Country can juſtly deny this neither. For though there is no abſolute neceſſity of this or that formality of Law, where the officer and his authority is knowne to all; and there is an evidence notorious of the fact for which (by way of juſtice, and puniſhment) the goods or life of any is taken away: Yet otherwiſe ſuch an Officer or Magiſtrate is no more privi<g ref="char:EOLhyphen"/>ledged to doe, (or in doing) any ſuch act, altogether beyond the bound of his lawfull Office, than a private perſon is. But even any ſuch officer and inferiour Magiſtrate is liable to puniſh<g ref="char:EOLhyphen"/>ment (even Capitall) for his Robbery or Murther practiſed (or attempted by him) as well as any private perſon, when legally convicted of it.</p>
+            <p>Though therfore there is (which is to be remembred) a conſtant honour due to every Officer and Magiſtrate, according to his de<g ref="char:EOLhyphen"/>gree; ſo long as he carries himſelf, not altogether contrary to his office: Yet when he attempts to doe any ſuch acts altoge<g ref="char:EOLhyphen"/>ther contrary to his Office (as all outragious violences infallibly are: his Office being properly to preſerve others from ſuch vio<g ref="char:EOLhyphen"/>lences) it cannot, but in reaſon and juſtice be equally lawfull to defend ones ſelfe againſt him and his aſſaults as againſt any pri<g ref="char:EOLhyphen"/>vate perſon.</p>
+            <p n="5">
+               <note place="margin" type="runSum">5. Notwith<g ref="char:EOLhyphen"/>ſtanding the com<g ref="char:EOLunhyphen"/>mand of the ſu<g ref="char:EOLhyphen"/>preme Magi<g ref="char:EOLhyphen"/>ſtrate. againſt law.</note>V. The command of the Supreme Magiſtrate, without due
+<pb facs="tcp:112640:4"/>proceſſe of law, to take away ones goods (unleſſe his authority be abſolute to lay what taxes he pleaſes upon any at any time) and much more the life of any; or upon any pretence whatſo<g ref="char:EOLhyphen"/>ever, their chaſtity; can, in no ſort authorize any private perſon, or even any Officer or inferiour Magiſtrate ſo to doe: or deprive the aſſaulted perſons of their juſt defence, before argued for.</p>
+            <p>
+               <note place="margin" type="runSum">No abſo<g ref="char:EOLhyphen"/>lute Mon<g ref="char:EOLhyphen"/>archy in poynt of life.</note> Neither can the law of any Nation be ſuppoſed to contradict this. For as for goods, if the law ſubject them to the Supreame Magiſtrates pleaſure; it makes or declares him then to be an ab<g ref="char:EOLhyphen"/>ſolute Monarch; and then his will any way manifeſted is ſuffici<g ref="char:EOLhyphen"/>ent proceſſe of law. But for life, there is not, (neither can be juſt<g ref="char:EOLhyphen"/>ly) no not in the hand of the greateſt Monarch, any abſolute au<g ref="char:EOLhyphen"/>thority to command the taking away the life of any, meerely at his owne will and pleaſure. For all Monarchy (and even all au<g ref="char:EOLhyphen"/>thority among men) is primarily and principally for Gods glo<g ref="char:EOLhyphen"/>ry, and then for the good of the whole ſociety; and but ſubordi<g ref="char:EOLhyphen"/>nately for the honour and greatneſſe of the Monarch. But as it cannot be conceived how it ſhould be to Gods glory who hath ſo pereptorily forbidden the ſhedding of innocent bloud ſo is it not imaginable that it ſhould be for the good of the whole Society, that any one man ſhould haue abſolute power of the life of all the reſt, or even of any one, meerely at his own pleaſure no true good to the Monarch himſelf, none to the co<g ref="char:cmbAbbrStroke">̄</g>monwealth and leaſt of all to the perſon of ſuch a ſubject, that ſhould be put to ſuffer it. So that no ſuch thing can in reaſon be liable to a com<g ref="char:EOLhyphen"/>mand, But that ſtill (for all, that any ſhould command againſt him in that ſort) there is ſtill the juſt liberty of defence, by the law of nature forenoted.</p>
+            <p>
+               <note place="margin" type="runSum">God maks none, nei<g ref="char:EOLhyphen"/>ther can man.</note> Whereunto may be added that no man can pretend any autho<g ref="char:EOLhyphen"/>rity, but with God in nature or ſcripture hath certainly given, or ſubjects have conſented unto, at leaſt in their Anceſtors. And it is certaine that God hath given no man in nature or ſcripture any ſuch authority to take away the lives of others at their own meere wills and pleaſures. And neither can any Nation (by the allowance of God in nature or Scripture) conſent that any ſhould have ſuch abſolute power over their lives at pleaſure. For they
+<pb facs="tcp:112640:5"/>have it not themſelves, and none can give another that power, which they never had themſelves, (though they have for their goods, reſerving but enough to keep life and ſoul together) and this holds alſo for ever. For chaſtity, God gives no man power to violate it, nor can any man or men, give any ſuch power.</p>
+            <p n="6">
+               <note place="margin" type="runSum">6. Notwith<g ref="char:EOLhyphen"/>ſtanding his pre<g ref="char:EOLhyphen"/>ſence.</note> VI. The Preſence of the ſupream magiſtrate, addes nothing to ſuch outragious illegall commands to authorize them ſo, as to fruſtrate any of their juſt defence, as aforeſaid</p>
+            <p>No Law among men, will or can reaſonably oppoſe this alſo: For the ſupream Magiſtrates authority is the ſame, whether preſent, or abſent: no act of his authority neceſſarily requires his preſence to ſee it executed, nor hath any validity, meer<g ref="char:EOLhyphen"/>ly by his preſence. Still then againſt any violent illegall outra<g ref="char:EOLhyphen"/>ges though countenanced by his preſence, defence is lawfull and juſt.</p>
+            <p n="7">
+               <note place="margin" type="runSum">7. Defence may be (if it muſt be) with of<g ref="char:EOLhyphen"/>fence, but the leaſt that may be.</note> VII. In all defence though it be allowed to proceed to the of<g ref="char:EOLhyphen"/>fence &amp; even killing of thoſe that offer outragious injury, to life or chaſtity, if the neceſſity of the defence require it, yet a man is bound to offend as little, as may be, thoſe againſt whom he de<g ref="char:EOLhyphen"/>fends himſelf.</p>
+            <p>
+               <note place="margin" type="runSum">8. Defence of one law<g ref="char:EOLhyphen"/>full a<g ref="char:EOLhyphen"/>gainſt many.</note> No Law can gainſay this neither, 1 becauſe to deny this liber<g ref="char:EOLhyphen"/>ty of offence were in effect, and by certain conſequence in ma<g ref="char:EOLhyphen"/>ny caſes to deny the defence it ſelf. Meere defence in many at<g ref="char:EOLhyphen"/>tempts of ſtrong and violent aſſailants, is no defence at all, nei<g ref="char:EOLhyphen"/>ther can any certain bounds be ſet to ſuch defence, which will not wholly make it void and vain. Onely for matter of goods, becauſe they may be divers wayes recompenſed againe, and a man may ſubſiſt though ſpoiled of all for the preſent, a Law might forbid the killing of a robber; And God did ſo of one that broke up a houſe in the day time, though in the night he al<g ref="char:EOLhyphen"/>lowed ſuch to be killed in the defending ones houſe and goods. So that a man muſt look to the law of the nation, for any ſuch allowance. 2 But all lawes of God and juſt men will and doe re<g ref="char:EOLhyphen"/>quire that if a man can defend himſelf, without offence of ano<g ref="char:EOLhyphen"/>ther, or very little, that he proceed not further.</p>
+            <p n="8">VIII. If more then one come to aſſault any, the defence is
+<pb facs="tcp:112640:5"/>no leſſe iuſt and lawfull, but rather the more, and ſo if they come with armes in a warlike manner, even though the defence could not be without killing more then one of them.</p>
+            <p>No Law of any nation can be conceived to prohibit this: for how many ſoever there be of them, a iuſt Law, cannot but hold them all malefactours, and the more ſet upon miſchief, and no<g ref="char:EOLhyphen"/>torious malefactours, by how much greater their number, and their preparation of Force, and ſo it cannot but preferre the good of one innocent before a multitude of ſuch lawleſſe per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p n="9">
+               <note place="margin" type="runSum">9. Defence of neigh<g ref="char:EOLhyphen"/>bours law<g ref="char:EOLhyphen"/>full.</note>IX. Where the aſſault is not againſt ones ſelf perſonally, but a<g ref="char:EOLhyphen"/>gainſt ones neigbours, their lives, chaſtity or goods, it is lawfull for any to ioyn with ſuch, as are ſo aſſaulted in their iuſt and ne<g ref="char:EOLhyphen"/>ceſſarie defence.</p>
+            <p>Neither can any Law, iuſtly deny this, which common equity not onely allowes, but calls for: I am to love my neighbour as my ſelf, and doe to others, as I would they ſhould doe unto me. Alſo Gods Law, that puniſhed adulterie with death, ſuppoſed if a woman cryed out in the citie againſt a raviſher, ſhe ſhould be reſcued by one or other: and he ſeverally threatens a requi<g ref="char:EOLhyphen"/>tall of thoſe that reſcue not ſuch as are ready to be ſlain: and without this, the weaker ſhould everie where be expoſed to the ſtronger, and all ſingle perſons, to any number, that would of<g ref="char:EOLhyphen"/>fer violence.</p>
+            <p n="10">
+               <note place="margin" type="runSum">10. Ioint de<g ref="char:EOLhyphen"/>fence of many law<g ref="char:EOLhyphen"/>full, ever, with Arms</note>X. Where the aſſault or attemp is not onely againſt ſingle perſons, but divers, and the number of aſſailants be great, and they come with force of arms, ſtill it is the more lawfull for the aſſailed, (and their neighbours) to ioyne together in their mu<g ref="char:EOLhyphen"/>tuall neceſſarie defence, by all Lawes forementioned of nature, and nations.</p>
+            <p n="11">
+               <note place="margin" type="runSum">11. Lawfull for officers to co<g ref="char:cmbAbbrStroke">̄</g>mand defence.</note>XI. Thoſe that are appointed officers in any nation by law to preſerve the peace, are ſpecially authoriſed by their places, and offices, to defend the innocent againſt ſuch iniurions aſſaults and namely, to charge all thoſe that are under them, (as ma<g ref="char:EOLhyphen"/>ny as needs) to ioyn together in ſuch defence, and moreover, for the apprehenſion of ſuch malefactours as diſturb the peace
+<pb facs="tcp:112640:6"/>by ſuch attempts of Violence, alſo thoſe that are under Authority are bound, (and therefore, much more is it lawfull for them,) to ioyn with ſuch Officer, who legally charge them to help them keep the peace. And all this notwitghſtanding any pretended command from the ſupream Magiſtrate, or his very preſence of ring to warrant violent outrages.</p>
+            <p>No lawes of any nation can be ſuppoſed to contradict even this wholly, for though lawes may poſſibly make void all infe<g ref="char:EOLhyphen"/>riour Officers command, in the preſence of the ſupreme, or in caſe any command from him prohibit them in any particular caſe, yet at leaſt as private perſons (as before,) they may defend themſelves, and their neighbous, &amp; if the law of the nation doth not wholly ſuſpend their authority upon the pleaſure of the ſu<g ref="char:EOLhyphen"/>preme, then even as officers they may defend, and call to de<g ref="char:EOLhyphen"/>fence as aforeſaid, as being the proper end of their offices.</p>
+            <p n="12">
+               <note place="margin" type="runSum">12. Preparati<g ref="char:EOLhyphen"/>ons for de<g ref="char:EOLhyphen"/>fence law<g ref="char:EOLhyphen"/>full,</note> XII. Where it appears evidently, or upon iuſt ground may be ſuſpected, that Violence is intended againſt any, though not in<g ref="char:EOLhyphen"/>ſtant nor preſently to be executed, One or more may before hand make their preparations, according to the nature of the aſſault intended for their ſufficient defence.</p>
+            <p>No law can reaſonably deny this to ſuch as are not under ſome cenſure of the law, themſelves: Becauſe otherwiſe, it might be too late to provide for defence, when the danger ſuddenly breakes forth.</p>
+            <p n="13">
+               <note place="margin" type="runSum">13. Upon war<g ref="char:EOLhyphen"/>ning of publick watchmen,</note>XIII. Where any are employed to bee publick watch<g ref="char:EOLhyphen"/>men, and they give notice of a danger which they ſee at hand, or deſcry a farre off, though parties endangered (or ſome of them) cannot ſo fully diſcern it, or be ſuddenly or clearly con<g ref="char:EOLhyphen"/>vinced of it, yet credit may lawfully be given to them, ſo farre as to prepare for a ſutable defence, at leaſt ſo long as they are not proved to have needleſly frighted men, with falſe Alarmes</p>
+            <p>
+               <note place="margin" type="runSum">14. Speciall cauſes of giving them cre<g ref="char:EOLhyphen"/>dit.</note> No law can be imaginable to contradict this, for that were to contradict the office it ſelf, which the law hath conſtituted to diſcover dangers; And to forbid preparation for defence in ſuch caſe, is to be guilty of their own miſchief, by wilfull betraying their own ſafety.</p>
+            <p n="14">XIV. 2 It is yet more lawfull, to give credit to ſuch watchme,
+<pb facs="tcp:112640:6"/>(accordingly to prepare) when they are perſons of experienced diſcretion &amp; fidelity, or juſtly recommended for ſuch. 3 And yet more, when there hath been experience of the practiſes of ſuch againſt whom they warre, like thoſe they mention. 4 And ſtill the more when they ſee ſignes, that ſuch men are ſtill of the ſame mind they were formerly, to doe outrages &amp; violence. 5 And yet further, when they make preparations for it, at leaſt in ſuch fort as will inable them to make their aſſaults when they pleaſe. 6 And moſt of all when they are already practiſing ſuch exploits by way of beginning in other places.</p>
+            <p>
+               <note place="margin" type="runSum">15. Lawfull to meete and aſſault, thoſe that are prepa<g ref="char:EOLhyphen"/>ring to Aſſault.</note> No law can be ſuppoſed to refuſe this which all rules of pru<g ref="char:EOLhyphen"/>dence and policy plead for. And to doe otherwiſe, were to gra<g ref="char:EOLhyphen"/>tifie thoſe that intend ſuch aſſaults as much as they need to de<g ref="char:EOLhyphen"/>ſire, and more then they can poſſibly expect from Rationall men.</p>
+            <p n="15">XV. Where the aſſailants are likely to be many, &amp; furniſhed with Armes and warlike proviſions, The nature of defence doth not enjoyne (nor admit) to keep altogether cloſe, and ſtay ever at home. But allowes as lawfull (and even requires as neceſſary) to march forth againſt them even armed, to meet ſuch aſſailants and keep them from comming too neere their dwellinge. And if meeting the, they appear reſolved to proceed in their violence, they who come forth for defence, may begin to aſſault their adverſaryes, and it is ſtill but a <hi>defence.</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">16. Peacefull mind ne<g ref="char:EOLhyphen"/>ceſſary, yet lawfull to ſecine themſelves for preſent and future probably.</note> No law can juſtly or wiſely oppoſe even this: Becauſe by de<g ref="char:EOLhyphen"/>lay &amp; waiting, till the attempters of violence beginne actually to make their aſſault, they may have gotten irrecoverable advantage and irreſiſtible ſtrength againſt the defendants. Therefore de<g ref="char:EOLhyphen"/>fence being allowed them, they tranſgreſſe not the juſt limits of it, by ſetting firſt upon thoſe that appear minded to aſſault them as ſoon as they are ready; at leaſt ſo far at to diſarme them, and diſable them from doing the miſchiefe intended.</p>
+            <p n="16">XVI. 1 As in all defence it muſt be reme<g ref="char:cmbAbbrStroke">̄</g>bred, that it is nor law<g ref="char:EOLhyphen"/>full to offend the aſſailants beyond neceſſity. 2 So ſpeciall care muſt be taken, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Mor<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n,</hi> &amp; <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <hi>Propoſitions</hi> of <hi>Peace</hi> &amp; <hi>Accord,</hi> as far as may ſtand with any ſafety &amp; prudent ſecurity. 3 Notwithſtanding which, none are bound to diſable themſelves from a future defence in caſe of future danger.</p>
+            <pb facs="tcp:112640:7"/>
+            <p>No law can juſtly refuſe this laſt clauſe. Otherwiſe all that was be<g ref="char:EOLhyphen"/>fore affirmed would inſtantly become leſſe and worſe then no<g ref="char:EOLhyphen"/>thing. Where defence is juſt, nothing but prudence hath author<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ty to command any to diſarme themſelves; &amp; that can never giv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch a charge, but upon a morall probability of the danger bein<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo ſufficiently over for this time; that before another can ariſe, there may be againe ſufficient meanes of defence.</p>
+            <p n="17">
+               <note place="margin" type="runSum">17. By ſtand<g ref="char:EOLhyphen"/>ers not to be injured, yet ſome<g ref="char:EOLhyphen"/>what of theirs may be made uſe of.</note> XVII 1 Alſo in all preparations and actions of defence, care muſt be taken not to injure others, that take not part with the aſ<g ref="char:EOLhyphen"/>ſaylants. 2 And yet in extremity, it's lawfull to make uſe of ſome<g ref="char:EOLhyphen"/>what which belongs to others. 3 Provided they afterward have full recompence made them for any damage then ſuſtained by the defendants, if at leaſt the benefit of the defence (though they did not owne it) redounding even to them, make them not ſuf<g ref="char:EOLhyphen"/>ficient recompence, of it ſelfe.</p>
+            <p>No law can with equity altogether refuſe this liberty alſo to defendants in great danger, In as much, as every one is bound by the law of nature to be helpfull to the innocent in danger, at leaſt inſome degree, ſo farre as may be without his owne ruine. Alſo the good of many being in danger, or a greater good then is ha<g ref="char:EOLhyphen"/>zarded by what is uſed of a by-ſtander; Uſe may be made of it upon the Termes forenoted without any Iniuſtice, even againſt the preſent will of the owner. Who the more unwilling he ap<g ref="char:EOLhyphen"/>pears, the more he gives cauſe of ſuſpicion, that at leaſt he fa<g ref="char:EOLhyphen"/>vours the Aſſailants more then the Defendants; eſpecially when as otherwiſe himſelf might be in danger as well as the reſt of the Defendants. And then to borrow ſomwhat of him, or ſecure him from doing harme, cannot but be included within the li<g ref="char:EOLhyphen"/>mits of the neceſſary defence, and ſo be allowed as lawfull.</p>
+            <p n="18">
+               <note place="margin" type="runSum">18. Lawfull for a coun<g ref="char:EOLhyphen"/>try or Kingdome to defend themſelves from ſla<g ref="char:EOLhyphen"/>very, and true Reli<g ref="char:EOLhyphen"/>gion eſta<g ref="char:EOLhyphen"/>bliſht from ſubverſions.</note>XVIII. If the danger be to a whole country, &amp; much more if to a whole Kingdome; &amp; that there be attempts, apparent or juſtly ſuſpected to enſlave mens goods and perſons (and yet more if the true religion eſtabliſht by law, be alſo aimed at and in danger to be ſubverted) a joynt, and even generall defence is ſo much the more lawfull and even neceſſary, calling all offi<g ref="char:EOLhyphen"/>cers to their duties reſpectively, &amp; all private perſons too, ſpeci<g ref="char:EOLhyphen"/>ally
+<pb facs="tcp:112640:7"/>with them, though alſo even without them, it they be falſe, ſtupid, or faint hearted.</p>
+            <p>No law can juſtly forbid that to a country or Kingdome, or to any conſiderable part of the one or the other, which is grant<g ref="char:EOLhyphen"/>ed to private perſons ſingle or to a few, for their concernments, as this before hath been proved allowable to them.</p>
+            <p n="19">
+               <note place="margin" type="runSum">19. Lawfull for a Par<g ref="char:EOLhyphen"/>liament to command the whole Kingdome to defend themſelves and ap<g ref="char:EOLhyphen"/>prehend diſturbers.</note>XIX. When in any Kingdome or common wealth, there are <hi>States</hi> (or <hi>Parliaments</hi>) which repreſent the whole body of the Subiects, they are not onely the publick watchmen, &amp; great Councell of the kingdome, but the Great officers, and chiefeſt Court of Juſtice of the whole Kingdome, and ſo entruſted and charged above all others, with the keeping of the Peace, and de<g ref="char:EOLhyphen"/>fence of the innocent, all the Kingdome over, and ſo their autho<g ref="char:EOLhyphen"/>rity reaches throughout the whole kingdome, and to command all inferiour Officers, and Magiſtrates, and private perſons, to doe their duties reſpectively, (whether others doe theirs or not) for the neceſſary defence of themſelves, their neighbours and the whole Kingdome, and to this end, to arm themſelves, and march orderly into any part of the Kingdome, for the ſuppreſ<g ref="char:EOLhyphen"/>ſing, and preventing and apprehending of all notorious violators of the Peace, or ſuſpected practiſers againſt it.</p>
+            <p>No law of a kingdom, (that hath ſuch State, ſuch a Parliament) can rationally be ſuppoſed to deny them this authority. for if all officers and Judges within their limits may lawfully, and authoritatively charge all under them to keep the Peace againſt all the diſturbers of it, and even Arm againſt them, if need be. And every Judge in Capitall Crimes, hath power to ſend to apprehend thoſe that are to be judged by him, or elſe all their authority is a meere pageant, and a mockery. The States then of a Kingdom, who are the great Officers, &amp; Judges of Judges, (even of all other) cannot be denyed the forenamed power, throughout the whole Kingdome, indefence of the Peace, and puniſhment of the violators of it, even though countenanced by the Kings preſence and command.</p>
+            <p n="20">
+               <note place="margin" type="runSum">20. Lawfull to make cap<g ref="char:EOLhyphen"/>tains, and a Generall with ſuffi<g ref="char:EOLhyphen"/>cient au<g ref="char:EOLhyphen"/>thority.</note>XX. By all the foregoing Propoſitions, it appeares that in the fore mentioned caſes, it is lawfull even for private perſons,
+<pb facs="tcp:112640:8"/>and much more for Magiſtrates, and Officers in their juriſ<g ref="char:EOLhyphen"/>dictions, to defend themſelves and their neighbours, and that with Arms, and moſt of all for the States of a Kingdome, to de<g ref="char:EOLhyphen"/>fend the whole Kingdome againſt all Violators of the Peace, &amp; Juſtice of it. Whence it alſo followes undeniably, that they may in ſuch exigents of neceſſity, appoint Captaines and other Officers of warre, and a Generall over all, whoſe wiſdom and authority may manage their authority, to the right ends and purpoſes of it, &amp; ſuch they may inveſt with all neceſſary autho<g ref="char:EOLhyphen"/>rity, for the right ordering of their ſouldiers, and all others for the common good, and this ſpecially, when the ordinary Offi<g ref="char:EOLhyphen"/>cers of juſtice, (or Captaines of the ſouldiers, if there be any) either will not joyn in ſuch iuſt and neceſſary defence, or have not skill, to manage and conduct the forces.</p>
+            <p>No law, that yeelds to all that went before, can be ſuppoſed to refuſe this, which were utterly to diſappoint the defence un<g ref="char:EOLhyphen"/>dertaken, and reduce them into a worſe condition then before, becauſe their offring at a Defence the more provokes their aſſai<g ref="char:EOLhyphen"/>lants, and their want of skillfull commanders, and their order<g ref="char:EOLhyphen"/>ing their affairs, will expoſe them to the Violence of thoſe, that will not faile, to come againſt them, with all the advantages that may be.</p>
+            <p rend="italic">Thus far to ſhew what the law of nature allows to all, and the law of Nations doth not deny to any, nor can be ſuppoſed rationally to for<g ref="char:EOLhyphen"/>bid it. And this under what government ſoever, being but the voice of nature and Nations. If any deſire further to ſee how this agrees with the particular conſtitution of Government in this Nation: I ſhall referre him for that to the <hi>Politicall Catechiſme,</hi> and <hi>the Kingdomes Caſe.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
